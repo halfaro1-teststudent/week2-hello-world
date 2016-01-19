@@ -7,5 +7,5 @@
 # 4. exits
 
 # make sure that your code contains comments explaining your logic!
-
+input('Enter your name: ')
 print('hello')
